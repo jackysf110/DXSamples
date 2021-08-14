@@ -8,19 +8,9 @@ int main()
     std::cout << "Hello World!\n";
     ::getchar();
     
-啥地方就按了啥地方
+aaaa
 
-好的，真是这样
-    
-yyyyyyy
 
-hello 
-ok
-    
-    
-    123
-
-家
 
 }
 
