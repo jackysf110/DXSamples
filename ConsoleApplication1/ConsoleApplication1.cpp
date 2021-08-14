@@ -8,18 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     ::getchar();
     
-aaaa
-bbbb
-cccc
-天大地大
-光光光
-ddd
-eee
-fff
-等等
-ddd
-eee
-fff
+AA
 
 }
 
