@@ -8,8 +8,7 @@ int main()
     std::cout << "Hello World!\n";
     ::getchar();
     
-AAAAAAAA
-BBBBBBBB
+sf-1
 
 
 }
