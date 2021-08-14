@@ -11,6 +11,9 @@ int main()
 AA
 BB
 CC
+----
+DD
+----
 
 }
 
