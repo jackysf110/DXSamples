@@ -9,6 +9,7 @@ int main()
     ::getchar();
     
 A
+B
 
 }
 
