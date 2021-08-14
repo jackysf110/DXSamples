@@ -8,6 +8,18 @@ int main()
     std::cout << "Hello World!\n";
     ::getchar();
     
+AA
+BB
+CC
+----
+DD
+----
+EE
+----
+
+11
+22
+33
 A
 B
 C
