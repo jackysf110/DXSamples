@@ -8,22 +8,8 @@ int main()
     std::cout << "Hello World!\n";
     ::getchar();
     
-AA
-BB
-CC
-----
-DD
-----
-EE
-----
+AAAAAAAA
 
-11
-22
-33
-A
-B
-C
-U{D}
 
 }
 
