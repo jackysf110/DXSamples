@@ -8,14 +8,8 @@ int main()
     std::cout << "Hello World!\n";
     ::getchar();
     
-    int x = 0;
-    int y = 9;
-    
-    //
- 
-    int fff = 0;
+啥地方就按了啥地方
 
-    int k = 0;
 }
 
 // 运行程序: Ctrl + F5 或调试 >“开始执行(不调试)”菜单
